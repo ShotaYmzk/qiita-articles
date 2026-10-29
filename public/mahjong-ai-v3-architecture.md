@@ -6,8 +6,8 @@ tags:
   - 機械学習
   - 深層学習
   - PyTorch
-private: true
-updated_at: '2026-10-27T22:53:25+09:00'
+private: false
+updated_at: '2026-10-29T09:27:44+09:00'
 id: fc01e52811fd78ee4dd5
 organization_url_name: null
 slide: false
