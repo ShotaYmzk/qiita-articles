@@ -6,8 +6,8 @@ tags:
   - Python
   - Transformer
   - AI
-private: true
-updated_at: '2026-10-29T09:49:28+09:00'
+private: false
+updated_at: '2026-10-29T12:02:15+09:00'
 id: fa28d074a6c6c14f98fb
 organization_url_name: null
 slide: false
